@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Please read: http://msdn.microsoft.com/en-us/library/ie/dn455106.aspx -->
+<!-- browserconfig.xml archivo de configuración de browser en formato .xml -->
+
 <browserconfig>
     <msapplication>
         <tile>
